@@ -1,6 +1,17 @@
 # university-os-thread
 
-### Result is :<br />
+
+## Running
+
+To run this project 
+
+```bash
+  go run main.go
+```
+
+## Result<br />
+The result is ...
+
 `[Thread 3]: #1`<br />
 `[Thread 3]: #2`<br />
 `[Thread 3]: #3`<br />
@@ -301,4 +312,3 @@
 `[Thread 3]: #98`<br />
 `[Thread 3]: #99`<br />
 `[Thread 3]: #100`<br />
-
